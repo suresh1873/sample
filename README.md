@@ -1,2 +1,2 @@
 # sample
-Number guessing game
+project
